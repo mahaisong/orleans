@@ -1,1 +1,2 @@
 分布式并发时保持一致性.txt  actor模型干这个的。
+里面的socket的connection写的挺好的。参考地址:Orleans.Networking.Shared 下面 SocketConnection
